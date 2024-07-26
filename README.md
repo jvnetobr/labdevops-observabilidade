@@ -1,1 +1,1 @@
-# formacao-devops-observabilidade
+# labdevops-observabilidade
